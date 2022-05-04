@@ -392,6 +392,6 @@ So
 
 # Author
 
-### I am passionate software developer, currently enrolled in full stack web developement course with georgia tech. 
+### I am passionate software developer, currently enrolled in a full stack web developement bootcamp with georgia tech.  
 ### My Github:https://github.com/emma4jesus
 ### My Gist:https://gist.github.com/emma4jesus
